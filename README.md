@@ -4,7 +4,7 @@ Dlib is a modern C++ toolkit containing machine learning algorithms and tools fo
 
 
 ## About this Fork
-dlib was designed to be compiled on Linux. Changes were made in accordance to a [GitHub issue]() to make it Windows compatible. In addition, ensure the cmake command is run in the **same working directory drive** as your Python installation 
+dlib was designed to be compiled on Linux. Changes were made in accordance to a [GitHub issue](https://github.com/davisking/dlib/issues/2463) to make it Windows compatible. In addition, ensure the cmake command is run in the **same working directory drive** as your Python installation 
 
 
 ## Compiling dlib C++ example programs
